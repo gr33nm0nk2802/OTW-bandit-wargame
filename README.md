@@ -3,7 +3,7 @@ This folder contains the task and steps taken to solve bandit. This repository h
 
 # Tasks
   
- - [x] Task 1 make a sshclient
- - [x] Task 2 read write to the files
- - [x] Task 3 supply various linux commands using python to the ssh client
- - [] More Tasks to be added soon
+ - [x] **Task 1** : make a sshclient
+ - [x] **Task 2** : read write to the files
+ - [x] **Task 3** : supply various linux commands using python to the ssh client
+ - [ ] More Tasks to be added soon
